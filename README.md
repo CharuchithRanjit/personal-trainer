@@ -1,12 +1,30 @@
-Exercise Counter with Web App by team momosfromwuhan
-(Note:- It will not work in windows)
+<p align = "center"><h1 align = "center" >Personal Trainer Using MEDIAPIPE</h1></p>
 
-Steps to run the repository:-
 
-1. Install the following libraries from your command promt:- 
-                                 a) mediapipe
-                                 b) opencv
-                                 c) numpy
-2. from command prompt go to your current directory
-3. In commpand prompt type python app.py
-4. Now your personal trainer is ready just choose an exercise and enter the number of counts for that exercise . 
+## Personal Trainer using mediapipe. A web app that will help you to motivate for your daily exercises and keeps count of different exercises done daily and will tell you the amount of calories burnt using that exercise using opencv and mediapipe .
+
+<h3>App Mode :- </h3>
+* Pushups<br>
+* Pullups<br>
+* Squats<br>
+* Bicep Curls<br>
+* Weight Lifting<br>
+
+
+<br>
+<h3>Pushups Demo:-
+<br />
+<img align="center" src="https://github.com/shreyanshsatvik/personal-trainer/blob/main/Gif/pushups.gif"  />
+<br>
+Squats Live Demo :-
+<br>
+<img align="center" src="https://github.com/shreyanshsatvik/personal-trainer/blob/main/Gif/squats.gif"  />
+<br />
+Crunches Demo :- 
+<br />
+<img align ="center" src="https://github.com/shreyanshsatvik/personal-trainer/blob/main/Gif/crunches.gif" />
+<br />
+ </h3>
+
+**Made with :heart:** 
+              **-BiraVirus** 
