@@ -1,7 +1,7 @@
 <p align = "center"><h1 align = "center" >Personal Trainer Using MEDIAPIPE</h1></p>
 
 
-## Personal Trainer using mediapipe. A web app that will help you to motivate for your daily exercises and keeps count of different exercises done daily and will tell you the amount of calories burnt using that exercise using opencv and mediapipe .
+## Personal Trainer using mediapipe. A web app that will help motivate you for your daily exercises, keep count of the different exercises done daily and will tell you the amount of calories burnt using that exercise using opencv and mediapipe.
 
 <h3>App Mode :- </h3>
 * Pushups<br>
